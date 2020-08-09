@@ -1,0 +1,11 @@
+Class name: File
+Parent class: N/A
+Subclass: N/A
+
+Responsibilities: 
+* Stores content of the file
+* Stores name of the file
+* Appends input to the file
+* Retrieves file content and name
+
+Collaborators: N/A

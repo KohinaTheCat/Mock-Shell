@@ -1,0 +1,13 @@
+Class name: Redirection
+Parent class: N/A
+Subclass: Cat, Curl, Echo, History, Man, History, Tree, Find
+
+Responsibilities: 
+* Creates a new file if it doesn't exist
+* Overwrites content of the file with user input if the file exists
+* Appends input to the file
+* Output error message if input is invalid
+
+Collaborators: 
+* ErrorCheck
+* FileSystem

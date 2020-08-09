@@ -1,0 +1,73 @@
+//Sprint 4 Backlog.  
+July 17th to July 23rd
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I want to be notified that a file cannot be read         
+b) As a user, I want to be able to print the contents of the current directory, and the contents of their sub-directories
+c) As a user, I want to be able to print the content of one or more files on the system in the shell.    
+d) As a user, I want to be able to create directories.                                    
+e) As a user, I want to be notified about bad input.
+f) As a user, I want to be notified about a command that failed.                                
+g) As a user, I want to see the the right execution of my command.         
+h) As a user, I want to be able to remove a directory from the file system     
+i) As a user, I want to be able to move directories or files to specified directory     
+j) As a user, I want to be able to copy contents of a directory recursively 
+k) As a user, I want to be able to copy a file into a specified directory    
+l) As a user, I want to be able to visually see my mock file system    
+m) As a user, I want to be able to interact and enter commands into a command line interface.                                     
+
+
+Specific tasks to be accomplished:
+
+a-1. (Cat) Make sure the Cat class accepts a list of file names, and outputs an error message if the file
+does not exist
+
+b-1. (Parser) Have Parser class recognize the '-R' argument
+b-2. (Ls) Edit the Ls class so it can output the sub-directories and it's contents of a specified directory (recursively)
+
+c-1. (Cat) see task a.
+
+d-1. (Parser) Edit the Parser class to accept multiple directory names for Mkdir
+d-2. (Mkdir) Edit the Mkdir class to make multiple directories given a list
+
+e-1. [See b-1]
+e-2. (ErrorCheck, Parser) Do it so it correctly parses the arguments for the classes discussed in this backlog: Cat, Ls,
+Mkdir, Rm, Mv, Cp
+
+f-1. [see e]
+f-2. (Parser) Write the correct error messages regarding bad input for these commands
+
+g-1. Ensure all commands are working. Start creating JUnit tests for this project
+g-2. Finish new CRC card design
+
+h-1. (Rm) Create Rm class to remove directories
+
+i-1. (Mv) Create the Mv class
+i-2. (Cp) Wait for Cp class to be done
+i-3. (Rm) Wait for Rm class to be done
+i-4. (Mv) Integrate Rm and Cp to finish Mv class
+
+k-1. (Cp) Create the Cp class
+k-2. (Cp) Finish the Cp class
+k-3. (FileSystem) Create a back-end methods needed for Cp command, where it copies the object in the tree and adds it
+k-4. (Cp) Have Cp copy a single file or directory into another directory
+
+j-1. (Cp) Change the Cp class, such that it copies the sub-directories of a directory into a specified directory, recursively
+
+l-1. (Tree) Start the tree class
+
+m-1. Change design choices based on the feedback given from 2A
+m-2. Have functions return a string, not output directly
+
+
+These tasks are assigned as follows:
+
+User: Clara Chick
+Tasks: a, b, c, g, l, d, m
+
+User: Sameer Khan
+Tasks: f, g, i, l, m
+
+User: Malhar Pandya
+Tasks: e, f, g, h, k, j, m
+

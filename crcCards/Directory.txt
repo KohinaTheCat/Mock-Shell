@@ -1,0 +1,11 @@
+Class name: Directory
+Parent class: N/A
+Subclass: N/A
+
+Responsibilities: 
+* Creates a directory object
+* Stores/Retrieves directory name
+* Stores/Retrieves parent directory
+* Retrieves children
+
+Collaborators: N/A

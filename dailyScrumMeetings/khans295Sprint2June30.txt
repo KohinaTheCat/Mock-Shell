@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+	- Debugged echo class
+	- Tested and debugged history class
+	- Added helpers in parser to deal with some repeated code
+	- Planning with team to restructure poorly written and designed code in parser class
+	
+What do I plan to work in the next three days?
+    - Implement and interface to call and check commands
+    - Debugging
+    - Work on pushd
+    - Unit testing for functions
+    
+Am I blocked on anything?
+    - Popd needs Pushd to be completed

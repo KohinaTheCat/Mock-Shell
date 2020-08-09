@@ -1,0 +1,8 @@
+Class name: Node
+Parent class: N/A
+Subclass: File, Directory
+
+Responsibilities: 
+* Maintains object types that can be added to a file system
+ 
+Collaborators: N/A

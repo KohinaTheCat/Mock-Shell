@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - Finished Popd Class
+    - Helped with the parent Command class
+    - Improved man class by adding a hashmap
+    - Improved parser by using the Command class as a baseline for other classes, and calling
+    a common check and run function with a hashmap to remove unnecessary switch statements
+
+What do I plan to work in the next three days?
+    - JavaDoc Comments
+    - Testing and Debugging
+
+Am I blocked on anything?
+    - N/A

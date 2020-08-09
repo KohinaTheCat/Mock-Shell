@@ -1,0 +1,11 @@
+Class name: Tree
+Parent class: Redirection
+Subclass: N/A
+
+Responsibilities: 
+* Visually displays the system hierarchy as a tree
+ 
+Collaborators: 
+* CommandInterface
+* Directory
+* File

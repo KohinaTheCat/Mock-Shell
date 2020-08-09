@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+	- Finished Initializer
+	- Almost have a complete Hierarchy class
+	- Wrote the base code for Directory class
+	
+What do I plan to work in the next three days?
+    - Thorough testing of Directory/Hierarchy
+    - Finish Mkdir class
+    - Finish Ls class
+    - Complete Pwd class
+
+Am I blocked on anything?
+    - N/A

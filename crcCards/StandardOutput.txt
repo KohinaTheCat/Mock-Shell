@@ -1,0 +1,8 @@
+Class name: StandardOutput
+Parent class: N/A
+Subclass: N/A
+
+Responsibilities: 
+* Prints messages to standard output
+
+Collaborators: N/A

@@ -1,0 +1,11 @@
+Class name: Speak
+Parent class: N/A
+Subclass: N/A
+
+Responsibilities: 
+* Converts user input to audio
+* Plays audio
+
+Collaborators: 
+* CommandInterface
+* ErrorCheck

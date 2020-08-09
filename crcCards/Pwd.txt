@@ -1,0 +1,10 @@
+Class name: Pwd
+Parent class: Redirection
+Subclass: N/A
+
+Responsibilities: 
+* Prints out the whole path of the current directory
+
+Collaborators:
+* Directory
+* CommandInterface

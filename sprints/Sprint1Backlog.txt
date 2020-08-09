@@ -1,0 +1,60 @@
+//Sprint 1 Backlog.  
+June 17th to June 23rd
+
+Tasks to be Done:
+1) Discuss CRC cards and argue for the best design with each other
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I want to be able to quit the program. 
+b) As a user, I want to be able to interact with a command line interface    
+c) As a user, I want to be able to enter commands into a command line interface 
+d) As a user, I want to be notified about bad input
+e) As a user, I want to be able to navigate through the contents of the file system 
+f) As a user, I want to be able to overwrite existing files with input from the shell.
+g) As a user, I want to be able to create a file containing the input from the shell.
+h) As a user, I want to access the documentation for the commands on the shell.                        
+
+
+Specific tasks to be accomplished:
+
+a-1. (Exit) Finish Exit class
+
+b-1. (JShell) Set up user input
+b-2. (Initializer) Finish coding the Initializer class
+
+c-1. (Parser) Begin coding the Parser class
+c-2. (Parser) Parse the user input and arguments 
+c-3. (Parser) Recognize command and number of arguments
+c-4. (JShell) Depending on the parsed input, call the command
+
+d-1. (Parser) Code the decision tree to handle command execution errors
+
+e-1. (Hierarchy) Begin coding the structure of the file hierarchy and mock file system
+e-2. (Directory) Write the base code for the Directory class
+e-3. (Directory) Implement code where it updates the file hierarchy when there is a deletion or an 
+			     addition of a new directory
+e-4. (File) Implement code where it updates the file hierarchy when there is a deletion or an 
+		    addition of a new file
+		  
+f-1. (File) Write the base code for the File			    
+f-2. (File) Implement the code such that we can overwrite, create and append to a file  
+g-1. (File) Implement code where it can create a file 
+
+g-2. (File) [see f-2]
+g-3. (File) [see g-1]
+
+h-1. (Man) Finish coding the Man class
+
+
+These tasks are assigned as follows:
+
+User: Clara Chick
+Tasks: 1, a, b-1, c, d 
+
+User: Sameer Khan
+Tasks: 1, e-4, f - h
+
+User: Malhar Pandya
+Tasks: 1, b-2, e (without 4)
+

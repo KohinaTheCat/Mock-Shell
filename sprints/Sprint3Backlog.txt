@@ -1,0 +1,50 @@
+//Sprint 3 Backlog.  
+July 1st to July 8th
+
+Universal Tasks:
+1. Start commenting and creating the Java Docs
+2. Reassess recursively the CRC cards to keep it synchronized with new design choices
+3. Universal debugging to prepare for demo. (Always discussed with group)
+4. Through testing of all the finished commands
+5. Ensure the visibility of every method is appropriate
+
+
+User Stories from Product Backlog that we will address in this sprint:  
+
+a) As a user, I want to be able to add the current working directory to a list of previously accessed directories.
+b) As a user, I'd like to revisit previously accessed directories. 
+
+c) As a user, I want to be able to navigate through the contents of the file system.  
+d) As a user, I want to be able to create directories.    
+ 
+e) As a user, I want to see the the right execution of my command.    
+
+
+Specific tasks to be accomplished:
+
+a-1) (Pushd) Finish Pushd class
+b-1) (Popd) Finish Popd class
+
+c-1) (File) Restructure File class so it works with the new Directory class and FileSystem class
+c-2) (FileSystem) Start the FileSystem class
+d-1) (Directory) Restructure Directory class so it works with the new FileSystem class
+d-2) (FileSystem) Integrate with the FileSystem class smoothly
+
+e-1) (Command) Start the abstract command class
+e-2) (Command) Integrate it with the current classes
+e-3) (Parser) Make sure Parser class now calls the commands more efficiently 
+e-4) (Parser) Find a way to reduce the 30+ line case statement
+e-5) (Parser) Implement a hash map, as advised by TA
+
+
+These tasks are assigned as follows:
+
+User: Clara Chick
+Tasks: 1, 2, 3, 4, 5, e (except 5), a
+
+User: Sameer Khan
+Tasks: 1, 2, 3, 4, 5, e, b
+
+User: Malhar Pandya
+Tasks: 1, 2, 3, 4, 5, a, c, d
+

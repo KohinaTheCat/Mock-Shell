@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - Formatted the classes (my formatter is broken so it had to be redone)
+    - Added test cases in main functions of all the classes
+    - Added JavaDoc comments
+    - Finalized everything with team
+    - Global testing
+    - Made sure commands were running as user wants
+
+What do I plan to work in the next three days?
+    - N/A
+
+Am I blocked on anything?
+    - N/A

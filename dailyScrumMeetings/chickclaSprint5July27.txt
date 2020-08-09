@@ -1,0 +1,16 @@
+What did I work on in the last three days?
+    - Implemented a new Redirection design, such that stdout is written to file
+    and stderror is printed out.
+    - Finished Curl command
+    - Started testing
+    
+What do I plan to work in the next three days?
+	- JUnits
+	- Testing
+
+Am I blocked on anything?
+    - CURL JUnit testing
+    	- the best way to implement it
+    - Mock Objects testing
+    	- what commands need it?
+    	- Super tedious

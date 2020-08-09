@@ -1,0 +1,12 @@
+Class name: FileSystem
+Parent class: N/A
+Subclass: N/A
+
+Responsibilities: 
+* Tracks current working directory
+* Traverses through the file system
+* Stores and Retrieves data to the file system
+
+Collaborators: 
+* Directory
+* File

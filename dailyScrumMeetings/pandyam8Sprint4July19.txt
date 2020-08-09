@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - creating up with a structure/design to complete my task, and the code
+    in the most efficient way possible
+
+What do I plan to work in the next three days?
+    - Implementing the design I created into code.
+    
+Am I blocked on anything?
+    - N/A

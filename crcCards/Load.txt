@@ -1,0 +1,10 @@
+Class name: Load
+Parent class: N/A
+Subclass: N/A
+
+Responsibilities: 
+*  Loads the current state of the file system and of any of the commands from a
+file on the real file system of the computer
+ 
+Collaborators: 
+* CommandInterface

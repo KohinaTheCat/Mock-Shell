@@ -1,0 +1,11 @@
+Class name: Popd
+Parent class: N/A
+Subclass: N/A
+
+Responsibilities: 
+* Changes current directory to most recently stored directory, if any
+
+Collaborators: 
+* Cd
+* CommandInterface
+* StandardError

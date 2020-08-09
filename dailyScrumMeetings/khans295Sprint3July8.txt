@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Completed unit testing for multiple classes
+    - Added javadocs for particular classes
+    - Fixed formatting for multiple files
+
+What do I plan to work in the next three days?
+    - N/A
+
+Am I blocked on anything?
+    - N/A

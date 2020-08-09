@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+	- Complete file class system
+	- Completed man command system
+	- Added command call to parser class
+	
+What do I plan to work in the next three days?
+    - Finish coding echo class
+    - Finish coding history class
+    - Finish coding popd class
+    - Unit test man command class
+
+Am I blocked on anything?
+    - N/A

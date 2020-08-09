@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Completed unit testing for back-end classes and Ls command
+    - Added JavaDocs for back-end classes
+    - Fixed final formatting
+    - removed typos from CRC cards
+
+What do I plan to work in the next three days?
+    - N/A
+
+Am I blocked on anything?
+    - N/A

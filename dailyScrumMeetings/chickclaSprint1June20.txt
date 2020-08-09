@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Finished Task 1
+    - Argued with my team-mates about the best design for our CRC cards
+    - Updated the Sprint1Backlog to reflect our CRC card changes
+
+What do I plan to work in the next three days?
+    - Finish Exit and JShell and Parser Classes
+
+Am I blocked on anything?
+    - N/A

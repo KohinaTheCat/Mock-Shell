@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - Restructured the backend
+    - Created a directory struct class
+    - Reassessed the CRC cards
+    - finished pushd
+    - tested parser and backend
+
+What do I plan to work in the next three days?
+    - JavaDoc Comments for backend
+    - Testing backend and related commands
+    - Code review
+
+Am I blocked on anything?
+    - N/A

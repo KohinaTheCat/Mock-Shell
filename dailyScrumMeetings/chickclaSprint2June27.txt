@@ -1,0 +1,15 @@
+What did I work on in the last three days?
+    - Finished the Speak class
+    - Had Speak class working with the terminal
+    - Discussed CRC card changes with team
+    - Started the Pushd class
+    - Made the stack for Pushd
+    - Started on the Cat class
+
+What do I plan to work in the next three days?
+    - Finish the Pushd class
+    - Finish the Cat class
+    - Fix any errors that come up in JShell and Parser class
+
+Am I blocked on anything?
+    - N/A

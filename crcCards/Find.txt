@@ -1,0 +1,12 @@
+Class name: Find
+Parent class: Redirection
+Subclass: N/A
+
+Responsibilities: 
+*  Searches a specified directory for all files or directories that match exactly match the format of the user's input
+ 
+Collaborators: 
+* Directory
+* FileSystem
+* StandardError
+* CommandInterface

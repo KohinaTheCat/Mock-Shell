@@ -1,0 +1,9 @@
+Class name: CommandInterface
+Parent class: N/A
+Subclass: Cat, Cd, Cp, Curl, Echo, Find, History, Load, Ls, Man, Mkdir, Mv, Popd, Pushd, 
+		  Pwd, Rm, Save, Speak, Tree
+		  
+Responsibilities: 
+* Command execution
+
+Collaborators: N/A

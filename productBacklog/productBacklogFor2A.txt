@@ -1,0 +1,42 @@
+User Story                                                                                  | Time (hours)
+_________________________________________________________________________________________________________________
+As a user, I want to be able to to see a list of my recent commands,                                1
+including any syntactical errors associated to each command.							
+
+As a user, I want to be able to print the contents of the current directory.                        1
+
+As a user, I want to be able to quit the program.                                                   0.5
+
+As a user, I want to be able to print the whole path of the current working directory.              0.5
+
+As a user, I want to be able to print the content of one or more files on the system                2
+in the shell.
+
+As a user, I want to access the documentation for the commands on the shell.                        2
+
+As a user, I want to be able to print strings to the shell.                                         1
+
+As a user, I want to be able to overwrite existing files with input from the shell.                 1
+
+As a user, I want to be able to create a file containing the input from the shell.                  1
+
+As a user, I want to be able to append existing files with input in the shell.                      1
+
+As a user, I want to be able to add the current working directory to a                              2
+a list of previously accessed directories.
+
+As a user, I'd like to revisit previously accessed directories.                                     1.5
+
+As a user, I want to be able to navigate through the contents of the file system.                   1
+
+As a user, I want to be able to create directories.                                                 1
+
+As a user, I want the computer to convert text into audible speech.                                 2
+
+As a user, I want to be notified about bad input.                                                   0.5
+
+As a user, I want to be notified about a command that failed.                                       1
+
+As a user, I want to be able to interact and enter commands into a command line interface.          4
+
+As a user, I want to see the the right execution of my command.                                     2

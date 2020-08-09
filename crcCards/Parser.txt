@@ -1,0 +1,32 @@
+Class name: Parser
+Parent class: N/A
+Subclass: N/A
+
+Responsibilities: 
+* Parses user input
+* Outputs error messages if command does not exist
+* If input is valid, calls the specified command given by the user
+
+Collaborators: 
+* ErrorCheck
+* StandardError
+* StandardOutout
+* Cat
+* Cd
+* Cp
+* Curl
+* Echo
+* Find
+* History
+* Load
+* Ls
+* Man
+* Mkdir
+* Mv
+* Popd
+* Pushd
+* Pwd
+* Rm
+* Save
+* Speak
+* Tree

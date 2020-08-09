@@ -1,0 +1,13 @@
+Class name: Mv
+Parent class: Cp
+Subclass: N/A
+
+Responsibilities: 
+* Moves an item from it's current path to a specified path
+
+Collaborators: 
+* Directory
+* File
+* CommandInterface
+* Rm
+* StandardError

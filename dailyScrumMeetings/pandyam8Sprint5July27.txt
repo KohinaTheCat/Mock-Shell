@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Implemented cp,rm and find
+    - general debugging
+    
+What do I plan to work in the next three days?
+	- generics
+	-testing
+
+Am I blocked on anything?
+    - generics,need to clear with professor

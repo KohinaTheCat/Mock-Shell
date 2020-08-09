@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - Completed 90% of save function
+    - Completed 90% of load function
+    - Debugging for my save and load function
+    - Made some changes to Parser and updated some old code that needed
+    changes
+
+What do I plan to work in the next three days?
+    - Revise MV class
+    - Finish testing and debugging
+
+Am I blocked on anything?
+    - N/A

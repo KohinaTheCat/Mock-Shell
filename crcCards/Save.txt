@@ -1,0 +1,13 @@
+Class name: Save
+Parent class: N/A
+Subclass: N/A
+
+Responsibilities: 
+*  Saves the current state of the file system and of any of the commands into a file on the real file 
+   system of the computer
+ 
+Collaborators: 
+* FileSystem
+* CommandInterface
+* StandardError
+* ErrorCheck

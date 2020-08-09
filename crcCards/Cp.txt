@@ -1,0 +1,14 @@
+Class name: Cp
+Parent class: N/A
+Subclass: Mv
+
+Responsibilities: 
+* Copies an item from an existing path to a specified path
+* Copies a file to a file
+* Copies directories recursively into another directory
+
+Collaborators: 
+* Directory
+* ErrorCheck
+* FileSystem
+* CommandInterface

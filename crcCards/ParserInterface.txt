@@ -1,0 +1,8 @@
+Class name: ParserInterface
+Parent class: N/A
+Subclass: N/A
+
+Responsibilities: 
+* Hold the hash-maps, and instance variables needed for the Parser class
+ 
+Collaborators: N/A

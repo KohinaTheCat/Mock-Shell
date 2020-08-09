@@ -1,0 +1,11 @@
+Class name: JShell
+Parent class: N/A
+Subclass: N/A
+
+Responsibilities: 
+* Reads the user input
+* Starts the terminal environment
+
+Collaborators:
+* Pwd
+* Parser

@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+	- Complete echo class
+	- Completed history class
+	- Reworked parser class
+	- Discussed with team to remove Initializer class
+	
+What do I plan to work in the next three days?
+    - Finish popd class
+    - Debugging
+    - Unit testing for functions
+    
+Am I blocked on anything?
+    - Echo class can't work without hierarchy system being completed
+    - Echo class can't be tested without cat and ls function working

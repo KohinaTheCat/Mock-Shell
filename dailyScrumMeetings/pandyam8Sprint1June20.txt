@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+	- Discussed and came up with CRC and product design.
+	- Created the final CRC cards.
+	- Planned out the coding process for the Hierarchy and Directory class.
+	
+What do I plan to work in the next three days?
+    - Plan to code the base for the Directorry and Hierarchy class.
+    - Finish the Initializer class.
+
+Am I blocked on anything?
+    - N/A

@@ -1,0 +1,12 @@
+Class name: ErrorCheck
+Parent class: N/A
+Subclass: N/A
+
+Responsibilities:
+* Checks if user input is syntactically valid, and matches the command requirement
+* Checks if inputted file/directory/path exists
+* Directs some common errors to StandardError
+
+Collaborators: 
+* Pwd
+* StandardError

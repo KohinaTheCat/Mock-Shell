@@ -1,0 +1,12 @@
+Class name: History
+Parent class: Redirection
+Subclass: N/A
+
+Responsibilities: 
+* Prints all the commands given to the shell.
+* Prints specified number of most recent commands given to the shell.
+* Outputs error message if input is invalid
+
+Collaborators: 
+* CommandInterface
+* StandardError

@@ -1,0 +1,14 @@
+Class name: Rm
+Parent class: N/A
+Subclass: N/A
+
+Responsibilities: 
+* Outputs an error if the given directory doesn't exist
+* Removes a directory at a given path
+
+Collaborators: 
+* Directory
+* FileSystem
+* StandardError
+* ErrorCheck
+* CommandInterface

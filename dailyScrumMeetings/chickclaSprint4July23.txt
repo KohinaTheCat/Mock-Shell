@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Added a series of unit tests for some of the commands. [task g]
+        - Used reflection to test properly
+    - Finished the Tree class [task l]
+    - Made all command classes return a string (Change of design choice) [task m]
+    
+What do I plan to work in the next three days?
+	- Start Sprint5 tasks
+
+Am I blocked on anything?
+    - N/A

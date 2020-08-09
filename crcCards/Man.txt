@@ -1,0 +1,9 @@
+Class name: Man
+Parent class:  Redirection
+Subclass:  N/A
+
+Responsibilities: 
+* Prints the documentation of specified command
+
+Collaborators: 
+* CommandInterface

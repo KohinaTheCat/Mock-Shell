@@ -1,0 +1,20 @@
+What did I work on in the last three days?
+    - Finished all tasks assigned in Sprint1Backlog
+    	- finished the Exit class and successfully called it and had it working.
+    	- set up user input in JShell class
+    	- finished coding the structure of the Parser class: all commands and arguments are successfully
+    	checked and parsed. (to be tested)
+		- connected my work with the Initializer class
+	-  Made a few changes to the CRC cards after seeing a few design flaws during implementation. 
+	- Finished planning and assigning tasks for Sprint2.
+
+What do I plan to work in the next three days?
+    - Do tasks a, b, c, d
+    	- Finish Speak class
+    	- Finish Cat class
+	- Add detailed comments and Java Docs on classes I've made
+	- Maybe: do task l
+		- Finish Pushd Class
+
+Am I blocked on anything?
+    - N/A

@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - Created mkdir,pwd and ls
+    - Restructured the struct class and filesystem
+    - Debugged the parser and errorcheck and backend commands
+
+
+What do I plan to work in the next three days?
+    - Tasks assigned in Sprint3
+    - Redesigning the struct classes
+    - Rework the error check class
+    - debug the backend commands and classes
+
+Am I blocked on anything?
+    - N/A

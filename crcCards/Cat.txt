@@ -1,0 +1,12 @@
+Class name: Cat
+Parent class: Redirection
+Subclass: N/A
+
+Responsibilities: 
+* Displays the contents of the user inputted filepath(s)
+ 
+Collaborators: 
+* File
+* FileSystem
+* StandardError
+* CommandInterface

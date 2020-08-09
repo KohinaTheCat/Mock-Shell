@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - Finished Pushd Class
+    - Made a master command class, such that every command class inherits from it
+    - Made changes to the Parser class, so that it correctly calls the commands correctly
+    - Made changes to the sub-command classes so they now check their own arguments for validity
+    - Made sure design matches new CRC card implementations
+
+What do I plan to work in the next three days?
+    - JavaDoc Comments
+    - Testing and Debugging
+
+Am I blocked on anything?
+    - N/A

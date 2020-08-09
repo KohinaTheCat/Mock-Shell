@@ -1,0 +1,43 @@
+//Sprint 5 Backlog.  
+July 23rd to August 2nd
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I want to be able to interact and enter commands into a command line interface. 
+b) As a user, I want to be able to find specific files based on a given name   
+c) As a user, I want to be able to load a save of my current mock file system from my computer
+d) As a user, I want to be able to interact with my real file system on my computer and save my current mock file system onto my computer
+e) As a user, I want retrieve a file at that URL and add it to the current working directory 
+f) As a user, I want to see the the right execution of my command.   
+g) As a user, I want to be able to redirect my input to append a file's content 
+h) As a user, I want to be able to copy contents of a directory recursively 
+
+Specific tasks to be accomplished:
+a-1) Implement feedback from 2A
+a-2) Make a redirection interface
+a-3) Use Generics
+
+b-1) (Find) Finish the Find command
+
+c-2) (Load) Finish the Load command
+
+d-1) (Save) Finish the Save command
+
+e-1) (Curl) Finish the CURL command 
+
+f-1) Do through testing for all commands, and fix those bugs
+f-2) Write JUnits for all public commands
+
+g-1) [a-2]
+
+h-1) (Cp) Finish the Cp command
+
+These tasks are assigned as follows:
+
+User: Clara Chick
+Tasks: a, e, f, g
+
+User: Sameer Khan
+Tasks: a, c, d, f, g
+
+User: Malhar Pandya
+Tasks: a-3, b, h, f, g

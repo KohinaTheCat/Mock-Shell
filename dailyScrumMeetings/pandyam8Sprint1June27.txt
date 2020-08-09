@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+	- Restructured directory and Node class
+	- Reassessed CRC cards with team and made sure collaborations and responsibilities were fulfilled, changed them where needed.
+	- Started coding Ls and Mkdir.
+	
+What do I plan to work in the next three days?
+    - Finish Mkdir, Ls, and Pwd
+    - Make sure parser is working as expected
+
+Am I blocked on anything?
+    - N/A

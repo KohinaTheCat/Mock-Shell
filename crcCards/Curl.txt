@@ -1,0 +1,11 @@
+Class name: Curl
+Parent class: Redirection
+Subclass: N/A
+
+Responsibilities: 
+*  Retrieves a file at a URL and adds it to the current working directory
+ 
+Collaborators:
+* StandardError
+* CommandInterface
+* RemoteDataFetcher

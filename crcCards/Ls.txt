@@ -1,0 +1,17 @@
+Class name: Ls
+Parent class: Redirection
+Subclass: N/A
+
+Responsibilities: 
+* Prints the contents of the current directory
+* Prints the contents of the user specified directory/file(s)
+* Prints out the contents of the all sub-directories of a specified directory if the argument -R is used
+* Outputs an error if the specified directory/file does not exist
+
+Collaborators: 
+* Directory
+* File
+* StandardError
+* FileSystem
+* Cat
+* CommandInterface

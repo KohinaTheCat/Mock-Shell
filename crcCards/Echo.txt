@@ -1,0 +1,9 @@
+Class name: Echo
+Parent class: Redirection
+Subclass: N/A
+
+Responsibilities:
+* Print user input to the shell
+
+Collaborators: 
+* CommandInterface

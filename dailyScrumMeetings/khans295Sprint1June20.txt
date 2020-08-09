@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+	- Brainstormed designs for CRC cards
+	- Finalized a design and wrote the CRC cards
+	- Spent time figuring out how to implement file system
+	
+What do I plan to work in the next three days?
+    - Plan out file system, make progress coding
+    - Finish the Man command
+
+Am I blocked on anything?
+    - N/A

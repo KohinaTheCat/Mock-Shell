@@ -1,0 +1,74 @@
+//Sprint 2 Backlog.  
+June 24th to June 30rd
+
+Universal Tasks:
+1. Start commenting and creating the Java Docs
+2. Reassess recursively the CRC cards to keep it synchronized with new design choices
+3. Universal debugging to prepare for demo. (Always discussed with group)
+
+User Stories from Product Backlog that we will address in this sprint:  
+a) As a user, I want to be able to print strings to the shell. 
+b) As a user, I want the computer to convert text into audible speech.      
+c) As a user, I want to be notified about a command that failed. 
+d) As a user, I want to be able to print the content of one or more files on the system in the shell.
+e) As a user, I want to be able to navigate through the contents of the file system 
+f) As a user, I want to be able to overwrite existing files with input from the shell.
+g) As a user, I want to be able to create a file containing the input from the shell.
+h) As a user, I want to be able to create directories.        
+i) As a user, I want to be able to print the contents of the current directory. 
+j) As a user, I want to be able to print the whole path of the current working directory.   
+k) As a user, I want to be able to to see a list of my recent commands, including any syntactical errors 
+associated to each command.
+l) As a user, I want to be able to add the current working directory to a list of previously accessed directories.
+m) As a user, I want to be able to quit the program.  
+
+Specific tasks to be accomplished:
+a-1. (Parser) Double check the if statements in Parser: case "echo"
+
+b-1. (Speak) Finish the Speak class
+b-2. (Parser) Connect with the Parser class
+
+c-1. (ErrorCheck) Finish ErrorCheck class
+c-2. (Parser) Connect ErrorCheck with Parser class
+c-3. (Parser) Change the structure of Parser class to fit with ErrorCheck class
+c-4. (Parser) Make changes to Parser class regarding changes made in Abbas' office hours
+
+d-1. (Cat) Finish the Cat class
+
+e-1. (Node == Hierarchy) Do a thorough testing regarding the Hierarchy and Directory class, as you implement the rest of the tasks
+e-2. (Cd) Start and finish the Cd class, and have it working.
+
+f-1. (Echo) [refer to g]
+f-2. (Echo) Test overriding files after Echo class is made
+
+g-1. (Echo) Start the Echo class.
+g-2. (Echo) Connecting with the Hierarchy, File, and Parser class
+g-3. (File) Double check and test File class after Echo class is done. Test via terminal.
+
+h-1. (Mkdir) Start and finish the Mkdir class
+h-2. (Mkdir) Connect with Parser, and and Hierarchy class
+
+i-1. (Ls) Start and finish the Ls class
+i-2. (Ls) Connect with Parser, and and Hierarchy class
+
+j-1. (Pwd) Finish the Pwd class
+
+k-1. (History) Start History class
+k-2. (History) Implement the stack
+
+l-1. (Pushd) Start the Pushd class
+l-2. (Pushd) Create the stack for Pushd and integrate it with Initializer
+
+m-1. (Exit) remove exit class and redesign the code so the same functionality can be achieved by a boolean.
+
+These tasks are assigned as follows:
+
+User: Clara Chick
+Tasks: 1, 2, 3, a, b, d, l, c-4, m
+
+User: Sameer Khan
+Tasks: 1, 2, 3, f, g, k
+
+User: Malhar Pandya
+Tasks: 1, 2, 3, c, d, e, h, i, j
+

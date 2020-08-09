@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Added cp and rm commands
+    - Made changes to error check and parser methods so that they accept the cp
+      and rm commands
+    - Decided redesigns based on feedback.
+    
+What do I plan to work in the next three days?
+	- Start Sprint5 tasks
+	- finish the recursion for copying directories
+
+Am I blocked on anything?
+    - N/A

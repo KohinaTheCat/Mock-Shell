@@ -1,0 +1,8 @@
+Class name: RemoteDataFetcher
+Parent class: N/A
+Subclass: N/A
+
+Responsibilities: 
+* Allow the Curl command class to be tested with injection
+ 
+Collaborators: N/A

@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Started unit testing for the remaining classes to be tested
+    - Added the recommended additions for our code
+    - Completed move class, will do some testing before commit
+
+What do I plan to work in the next three days?
+    - Continue adding JUnit tests for remaining classes
+    - Finish save and laod functions
+
+Am I blocked on anything?
+    - N/A

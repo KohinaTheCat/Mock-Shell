@@ -1,0 +1,15 @@
+Class name: Cd
+Parent class: N/A
+Subclass: N/A
+
+Responsibilities: 
+* Changes current directory to user specified directory
+* If directory does not exist, print out an error
+* If the specified directory is ., .., or /, then it will change the working directory to parent directory,
+  current directory and root of the file respectively
+
+Collaborators: 
+* ErrorCheck
+* StandardError
+* FileSystem
+* CommandInterface

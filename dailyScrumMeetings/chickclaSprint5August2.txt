@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Finished almost all of the JUnits
+    - Finished formatting and JDocs
+    - Finished Redirection
+    - Implemented injection design to some classes to help with testing with mock objects
+    - Testing and debugging
+    
+What do I plan to work in the next three days?
+	- N/A
+
+Am I blocked on anything?
+    - N/A

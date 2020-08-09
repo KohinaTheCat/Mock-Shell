@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - Finished task a: Ensured the Cat command either prints the error or the contents
+    of the file, when the given argument is a list of file names
+    - Finished task b: Had -R be a recognized argument, and Ls now prints contents of sub-directories
+    recursively
+    - Finished task c
+
+What do I plan to work in the next three days?
+    - Implement the Tree class
+    - Start creating JUnit Tests
+
+Am I blocked on anything?
+    - N/A

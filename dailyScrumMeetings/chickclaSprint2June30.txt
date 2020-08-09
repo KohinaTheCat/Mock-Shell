@@ -1,0 +1,16 @@
+What did I work on in the last three days?
+    - Finished or ensured that all tasks that I said I was going to be done from last sprint meeting, is done
+    	- except for Pushd class (see todo:)
+    - Made test cases, and found "bugs" in our code
+    - Communicated with team about new design
+    - Re-designed the design based on the advice from the demo
+    
+
+What do I plan to work in the next three days?
+    - Tasks assigned in Sprint3
+    - Work on the Command class with Sameer
+    - Work on Parser with Sameer
+    - Finish Pushd class
+
+Am I blocked on anything?
+    - N/A

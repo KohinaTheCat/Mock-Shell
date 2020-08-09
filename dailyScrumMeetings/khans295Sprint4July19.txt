@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Worked with team to revise our CRC cards and add new additions
+    to the files
+    - Planned out my approach for the coding that I have to do
+
+What do I plan to work in the next three days?
+    - Complete my code for Parser
+    - Work on mv class
+
+Am I blocked on anything?
+    - N/A

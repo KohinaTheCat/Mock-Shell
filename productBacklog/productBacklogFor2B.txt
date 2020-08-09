@@ -1,0 +1,42 @@
+User Story                                                                                  | Time (hours)
+_________________________________________________________________________________________________________________
+As a user, I want to be able to redirect my input to overwrite a file's content                     1
+
+As a user, I want to be able to redirect my input to append a file's content                        1
+
+As a user, I want to be able to remove a directory from the file system                             3
+
+As a user, I want to be able to move directories or files to a specified directory                  5
+
+As a user, I want to be able to copy contents of a directory recursively                            5
+
+As a user, I want to be able to copy a file into a specified directory                              3
+
+As a user, I want retrieve a file at that URL and add it to the current working directory           6
+
+As a user, I want to be able to interact with my real file system on my computer and save           10
+my current mock file system onto my computer
+
+As a user, I want to be able to load a save of my current mock file system from my computer         8
+
+As a user, I want to be able to find specific files based on a given name                           6
+
+As a user, I want to be able to visually see my mock file system                                    4
+
+As a user, I want to be notified that a file cannot be read                                         0.5
+
+As a user, I want to be able to print the contents of the current directory, and the                1
+contents of their sub-directories
+
+As a user, I want to be able to print the content of one or more files on the system                2
+in the shell.
+
+As a user, I want to be able to create directories.                                                 1
+
+As a user, I want to be notified about bad input.                                                   0.5
+
+As a user, I want to be notified about a command that failed.                                       1
+
+As a user, I want to see the the right execution of my command.                                     2
+
+As a user, I want to be able to interact and enter commands into a command line interface.          4

@@ -1,0 +1,9 @@
+Class name: StandardError
+Parent class: N/A
+Subclass: N/A
+
+Responsibilities: 
+* Keep track of the error messages that is needs to be printed
+* Prints the error messages
+
+Collaborators: N/A
